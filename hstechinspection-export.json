@@ -1,0 +1,59 @@
+{
+  "equipo1" : {
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/hstechinspection.appspot.com/o/equipo%20(1).jpg?alt=media&token=dfa807f0-57ba-45a2-b929-7fa2191a3447",
+    "parametros" : {
+      "-LshXn6udYERiHe4RGRa" : {
+        "parametro1" : "02-11-2019",
+        "parametro2" : "agni dolores e",
+        "parametro3" : "agni dolores e",
+        "parametro4" : "agni dolores e"
+      },
+      "-LshXsMUZIcySP0KYni2" : {
+        "parametro1" : "02-11-2019",
+        "parametro2" : "cagni dolores ",
+        "parametro3" : "agni dolores e",
+        "parametro4" : "agni dolores e"
+      }
+    }
+  },
+  "equipo2" : {
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/hstechinspection.appspot.com/o/equipo%20(2).png?alt=media&token=5b2f15e4-4dd4-4c9c-a760-8a9e8a36f780",
+    "parametros" : {
+      "-LsdRe4HUZdRcUbma8_Y" : {
+        "parametro1" : "01-11-2019",
+        "parametro2" : "agni dolores e",
+        "parametro3" : "commodi consequatur",
+        "parametro4" : "commodi consequatur"
+      },
+      "-LsdRhHdNo3mgiww9RFX" : {
+        "parametro1" : "01-11-2019",
+        "parametro2" : "parametro",
+        "parametro3" : "quis nostrum exercitationem",
+        "parametro4" : "agni dolores e"
+      },
+      "-LsdfmFX_9SG1djun1vu" : {
+        "parametro1" : "01-11-2019",
+        "parametro2" : "agni dolores e",
+        "parametro3" : "quis nostrum exercitationem",
+        "parametro4" : "i in ea voluptate"
+      },
+      "-Lt1g_pcGLCvcd6X5E4v" : {
+        "parametro1" : "06-11-2019",
+        "parametro2" : "Sr Suario",
+        "parametro3" : "",
+        "parametro4" : ""
+      }
+    }
+  },
+  "equipo3" : {
+    "foto" : "https://firebasestorage.googleapis.com/v0/b/hstechinspection.appspot.com/o/equipo%20(3).jpg?alt=media&token=2b12d5d1-3aa7-454b-a77c-6779862483a6",
+    "parametros" : {
+      "-LsmMZ_lfieavDKuvVNm" : {
+        "parametro1" : "03-11-2019",
+        "parametro2" : "agni dolores e",
+        "parametro3" : "i in ea voluptate",
+        "parametro4" : "adipisci velit, s"
+      }
+    }
+  }
+}
