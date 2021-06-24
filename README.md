@@ -1,6 +1,6 @@
 # virtualRecordBook
 
-Android app that was created to aid the maintenance management through record device of the machine. The project was canceled so is not complete. Database is on firebase (attached).
+Android app that was created to aid the maintenance management through record device of the machine. Database is on firebase (attached).
 
 Developer contact: 
 -Alex hs
